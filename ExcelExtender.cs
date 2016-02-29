@@ -16,7 +16,7 @@ using System.Diagnostics;
 namespace ExcelExtenderDemo
 {
     /// <summary>
-    /// 详细使用文档见： http://km.oa.com/articles/show/266258
+    /// 
     /// </summary>
     public class ExcelExtender
 	{
